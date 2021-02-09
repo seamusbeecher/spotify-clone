@@ -57,9 +57,6 @@ function App() {
         type: 'SET-SPOTIFY',
         spotify: spotify,
       });
-
-      
-
     }
   }, [])
 
