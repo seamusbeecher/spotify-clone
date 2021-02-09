@@ -92,3 +92,7 @@ To run this project, install it locally using npm:
 $ npm install
 $ npm start
 ```
+
+## Credits
+Special thanks to Clever Programmer YouTube page for the tutorial
+* https://www.youtube.com/c/CleverProgrammer
