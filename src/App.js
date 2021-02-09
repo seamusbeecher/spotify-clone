@@ -59,13 +59,7 @@ function App() {
       });
     }
   }, [])
-
-
-  // console.log('PERSON >>>> ', user);
-  // console.log('TOKEN >>>> ', token);
-  // console.log('TOP-HITS >>>> ', topHits);
-  // console.log('CURRENT-ITEM >>>> ', item);
-
+  
   return (
     <div className="app">
       {token ? (<Player spotify={spotify}/>) : (<Login />)}
