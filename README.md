@@ -81,6 +81,7 @@ Front-end Technologies
 ## Setup
 In order to fun for yourself change the following:
 You will need to set up an application with Spotify Developer
+* Body.js -> In the if statements change the arguement to the name of your playlist in order to show playlist
 * spotify.js —> Change the clientId to your own
 * Additionally you need to set the Redirect URL in Spotify developer to localhost
 
