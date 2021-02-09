@@ -87,7 +87,6 @@ You will need to set up an application with Spotify Developer
 To run this project, install it locally using npm:
 
 ```
-$ cd ../lorem
 $ npm install
 $ npm start
 ```
