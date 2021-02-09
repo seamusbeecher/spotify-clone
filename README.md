@@ -68,3 +68,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## General info
+This project is simple Spotify clone used to practice my front end developement skills with. 
+	
+## Technologies
+Front-end Technologies 
+* React
+* React Hooks
+* Material-UI Core/Icons
+	
+## Setup
+In order to fun for yourself change the following:
+You will need to set up an application with Spotify Developer
+* spotify.js —> Change the clientId to your own
+* Additionally you need to set the Redirect URL in Spotify developer to localhost
+
+To run this project, install it locally using npm:
+
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+```
